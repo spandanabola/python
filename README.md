@@ -15,3 +15,14 @@ http://www.nltk.org/book/ch05.html
 http://www.inf.ed.ac.uk/teaching/courses/icl/nltk/tagging.pdf
 
 http://statmath.wu.ac.at/courses/SNLP/Presentations/Unit_3-Tagging.pdf
+
+https://stackoverflow.com/questions/32441605/generating-ngrams-unigrams-bigrams-etc-from-a-large-corpus-of-txt-files-and-t
+
+https://towardsdatascience.com/multi-class-text-classification-with-scikit-learn-12f1e60e0a9f
+
+http://www.nltk.org/ 
+https://www.tutorialspoint.com/artificial_intelligence/artificial_intelligence_natural_language_processing.htm 
+
+ https://en.wikipedia.org/wiki/N-gram 
+ 
+ https://web.stanford.edu/~jurafsky/slp3/
