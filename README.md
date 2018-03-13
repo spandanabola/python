@@ -26,3 +26,5 @@ https://www.tutorialspoint.com/artificial_intelligence/artificial_intelligence_n
  https://en.wikipedia.org/wiki/N-gram 
  
  https://web.stanford.edu/~jurafsky/slp3/
+ 
+ https://web.stanford.edu/~jurafsky/slp3/4.pdf
