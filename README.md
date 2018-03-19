@@ -32,3 +32,5 @@ https://www.tutorialspoint.com/artificial_intelligence/artificial_intelligence_n
 http://www.cs.virginia.edu/~kc2wc/teaching/NLP16/slides/02-ngram.pdf
 
 http://ssli.ee.washington.edu/WS07/notes/ngrams.pdf
+
+http://cl.indiana.edu/~md7/11/515/practical/04-python4/python4-2x3.pdf
