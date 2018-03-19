@@ -28,3 +28,7 @@ https://www.tutorialspoint.com/artificial_intelligence/artificial_intelligence_n
  https://web.stanford.edu/~jurafsky/slp3/
  
  https://web.stanford.edu/~jurafsky/slp3/4.pdf
+
+http://www.cs.virginia.edu/~kc2wc/teaching/NLP16/slides/02-ngram.pdf
+
+http://ssli.ee.washington.edu/WS07/notes/ngrams.pdf
