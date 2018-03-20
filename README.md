@@ -36,3 +36,5 @@ http://ssli.ee.washington.edu/WS07/notes/ngrams.pdf
 http://cl.indiana.edu/~md7/11/515/practical/04-python4/python4-2x3.pdf
 
 https://github.com/hse-aml/natural-language-processing/blob/master/week1/week1-MultilabelClassification.ipynb
+
+https://docs.eyesopen.com/toolkits/python/graphsimtk/measure.html
