@@ -40,3 +40,6 @@ https://github.com/hse-aml/natural-language-processing/blob/master/week1/week1-M
 https://docs.eyesopen.com/toolkits/python/graphsimtk/measure.html
 
 https://medium.com/@acrosson/summarize-documents-using-tf-idf-bdee8f60b71
+
+
+https://anhaidgroup.github.io/py_stringmatching/v0.3.x/TverskyIndex.html
