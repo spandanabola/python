@@ -47,3 +47,5 @@ https://medium.com/@acrosson/summarize-documents-using-tf-idf-bdee8f60b71
 https://anhaidgroup.github.io/py_stringmatching/v0.3.x/TverskyIndex.html
 
 https://github.com/yuyunliuhen/automatic-text-categorization
+
+https://github.com/AdiPersonalWorks/TextMining-MachineLearning_AutoCategorizeConstructionAccidents
