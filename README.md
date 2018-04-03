@@ -39,6 +39,7 @@ https://github.com/hse-aml/natural-language-processing/blob/master/week1/week1-M
 
 https://docs.eyesopen.com/toolkits/python/graphsimtk/measure.html
 
+
 https://github.com/AdiPersonalWorks/TextMining-MachineLearning_AutoCategorizeConstructionAccidents
 
 https://medium.com/@acrosson/summarize-documents-using-tf-idf-bdee8f60b71
@@ -49,3 +50,13 @@ https://anhaidgroup.github.io/py_stringmatching/v0.3.x/TverskyIndex.html
 https://github.com/yuyunliuhen/automatic-text-categorization
 
 https://github.com/AdiPersonalWorks/TextMining-MachineLearning_AutoCategorizeConstructionAccidents
+
+http://ijcsit.com/docs/Volume%205/vol5issue02/ijcsit20140502307.pdf
+
+Latent Symatic Analysis
+
+First order logic
+
+knowledge extraction or knowledge graph
+
+Association rule mining
