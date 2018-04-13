@@ -51,6 +51,10 @@ https://github.com/yuyunliuhen/automatic-text-categorization
 
 https://github.com/AdiPersonalWorks/TextMining-MachineLearning_AutoCategorizeConstructionAccidents
 
+https://towardsdatascience.com/hello-world-in-tensorflow-973e6c38e8ed
+
+https://www.datacamp.com/community/tutorials/tensorflow-tutorial
+
 http://ijcsit.com/docs/Volume%205/vol5issue02/ijcsit20140502307.pdf
 
 Latent Symatic Analysis
@@ -64,3 +68,5 @@ Association rule mining
 https://www.cc.gatech.edu/~alanwags/DLAI2016/1.%20(Liu+)%20Probabilistic%20Reasoning%20via%20Deep%20Learning%20-%20Neural%20Association%20Models.pdf 
 https://arxiv.org/pdf/1603.07704.pdf 
 https://www.cc.gatech.edu/~alanwags/DLAI2016/(Liu+)%20IJCAI-16%20DLAI%20WS.pdf 
+
+https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/1_Introduction/basic_operations.py
